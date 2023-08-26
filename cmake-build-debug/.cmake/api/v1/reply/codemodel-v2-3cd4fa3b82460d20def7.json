@@ -1,0 +1,294 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ICS4UCBOJ",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "103::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-103-Debug-8caf8a18a42c171bb252.json",
+					"name" : "103",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "104::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-104-Debug-92de37391dee8e635950.json",
+					"name" : "104",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "105::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-105-Debug-c2980f850b31bac75f87.json",
+					"name" : "105",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "106a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-106a-Debug-f8507a121a8d8c2c4c62.json",
+					"name" : "106a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "108RecursiveFunctionAssignment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-108RecursiveFunctionAssignment-Debug-18ce1bd8092991d7ec62.json",
+					"name" : "108RecursiveFunctionAssignment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BubbleSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BubbleSort-Debug-dd427a8a380166c493ef.json",
+					"name" : "BubbleSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ICS4UCBOJ::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ICS4UCBOJ-Debug-c7391d196cedd237024f.json",
+					"name" : "ICS4UCBOJ",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InsertionSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InsertionSort-Debug-425e6e87423bfc75cfe8.json",
+					"name" : "InsertionSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MergeSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MergeSort-Debug-d6d48a48b3c77579f49e.json",
+					"name" : "MergeSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QuickSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuickSort-Debug-bc22b29e32530584285e.json",
+					"name" : "QuickSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SelectionSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SelectionSort-Debug-d48bdd3be97bc0fb22df.json",
+					"name" : "SelectionSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ShellSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShellSort-Debug-ae3b10502a0bfe2aac62.json",
+					"name" : "ShellSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linearBinarySearch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linearBinarySearch-Debug-5de559339539b6127fb3.json",
+					"name" : "linearBinarySearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "magicSquare::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-magicSquare-Debug-33538b7cf8f7ee464bb9.json",
+					"name" : "magicSquare",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oop1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop1-Debug-99b839353076385d9b02.json",
+					"name" : "oop1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recursiveFunctions1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recursiveFunctions1-Debug-8dbb2de85bc85a242d0b.json",
+					"name" : "recursiveFunctions1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recursiveFunctions2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recursiveFunctions2-Debug-1b4e40fd25fc31ecfde3.json",
+					"name" : "recursiveFunctions2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recursiveFunctions3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recursiveFunctions3-Debug-d0e785f09524a0a628bf.json",
+					"name" : "recursiveFunctions3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recursiveFunctions4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recursiveFunctions4-Debug-5ae2904906d2cb3da7e4.json",
+					"name" : "recursiveFunctions4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recursiveFunctions5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recursiveFunctions5-Debug-3ca84036b37b23ccc5c3.json",
+					"name" : "recursiveFunctions5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recursiveFunctions6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recursiveFunctions6-Debug-e4f1df53ee16a7dc81d5.json",
+					"name" : "recursiveFunctions6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recursivePractices::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recursivePractices-Debug-cacf2a970174a8df9515.json",
+					"name" : "recursivePractices",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spiral::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spiral-Debug-8910fb95335f6457e938.json",
+					"name" : "spiral",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spiralsDMOJ::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spiralsDMOJ-Debug-c1fd95cfa7ba66243bbf.json",
+					"name" : "spiralsDMOJ",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-f8faffae77e9df354acf.json",
+					"name" : "test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testClasses::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testClasses-Debug-1642445a70c2b8792922.json",
+					"name" : "testClasses",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testingSorts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testingSorts-Debug-ee008c59c4353ac2c29f.json",
+					"name" : "testingSorts",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jonathanzhu/CLionProjects/ICS4U/cmake-build-debug",
+		"source" : "/Users/jonathanzhu/CLionProjects/ICS4U"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
